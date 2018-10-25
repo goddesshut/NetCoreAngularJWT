@@ -11,3 +11,13 @@
 /EntityFrameworkCore.Extension/obj
 /Models/obj
 /.vs/ArchitectureAuth/v15/Server/sqlite3
+/Web/ClientApp/node_modules
+/Utils/bin/Debug/netcoreapp2.1
+/Security/bin/Debug/netcoreapp2.1
+/Models/bin/Debug/netcoreapp2.1
+/Infrastructure/bin/Debug/netcoreapp2.1
+/EntityFrameworkCore.Extension/bin/Debug/netcoreapp2.1
+/DataAccess/bin/Debug/netcoreapp2.1
+/WebService/bin/Debug/netcoreapp2.1
+/BussinessLogic/bin/Debug/netcoreapp2.1
+/.vs

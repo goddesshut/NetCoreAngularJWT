@@ -8305,11 +8305,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Architecture\\ArchitectureAuth\\BussinessLogin.Test\\BussinessLogin.Test.csproj",
+      "projectUniqueName": "D:\\GitHub\\NetCoreAngularJWT\\BussinessLogin.Test\\BussinessLogin.Test.csproj",
       "projectName": "BussinessLogin.Test",
-      "projectPath": "D:\\Architecture\\ArchitectureAuth\\BussinessLogin.Test\\BussinessLogin.Test.csproj",
+      "projectPath": "D:\\GitHub\\NetCoreAngularJWT\\BussinessLogin.Test\\BussinessLogin.Test.csproj",
       "packagesPath": "C:\\Users\\my_go\\.nuget\\packages\\",
-      "outputPath": "D:\\Architecture\\ArchitectureAuth\\BussinessLogin.Test\\obj\\",
+      "outputPath": "D:\\GitHub\\NetCoreAngularJWT\\BussinessLogin.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8328,8 +8328,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Architecture\\ArchitectureAuth\\BussinessLogic\\BussinessLogic.csproj": {
-              "projectPath": "D:\\Architecture\\ArchitectureAuth\\BussinessLogic\\BussinessLogic.csproj"
+            "D:\\GitHub\\NetCoreAngularJWT\\BussinessLogic\\BussinessLogic.csproj": {
+              "projectPath": "D:\\GitHub\\NetCoreAngularJWT\\BussinessLogic\\BussinessLogic.csproj"
             }
           }
         }

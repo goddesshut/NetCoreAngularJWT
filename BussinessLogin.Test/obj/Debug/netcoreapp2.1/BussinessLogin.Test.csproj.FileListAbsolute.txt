@@ -1,0 +1,4 @@
+D:\GitHub\NetCoreAngularJWT\BussinessLogin.Test\obj\Debug\netcoreapp2.1\BussinessLogin.Test.csprojAssemblyReference.cache
+D:\GitHub\NetCoreAngularJWT\BussinessLogin.Test\obj\Debug\netcoreapp2.1\BussinessLogin.Test.csproj.CoreCompileInputs.cache
+D:\GitHub\NetCoreAngularJWT\BussinessLogin.Test\obj\Debug\netcoreapp2.1\BussinessLogin.Test.AssemblyInfoInputs.cache
+D:\GitHub\NetCoreAngularJWT\BussinessLogin.Test\obj\Debug\netcoreapp2.1\BussinessLogin.Test.AssemblyInfo.cs
