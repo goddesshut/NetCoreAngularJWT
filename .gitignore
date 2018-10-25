@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WebService/obj
+/Utils/obj
+/Security/obj
+/Infrastructure/obj
+/BussinessLogic/obj
+/DataAccess/obj
+/EntityFrameworkCore.Extension/obj
+/Models/obj
+/.vs/ArchitectureAuth/v15/Server/sqlite3
