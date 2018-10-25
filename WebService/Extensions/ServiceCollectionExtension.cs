@@ -19,7 +19,7 @@ namespace WebService.Extensions
             DependencyInjector.AddDbContext<AuthDbContext>(configuration.GetConnectionString("AuthContext"));
 
             //Seed
-            //DependencyInjector.GetService<AuthDbContext>().Seed();
+            DependencyInjector.GetService<AuthDbContext>().Seed();
         }
 
         public static void AddMvcCustom(this IServiceCollection service)
